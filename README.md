@@ -27,7 +27,7 @@ This repo contains the steps to run the console with ACM/MCE and Genie (POC) loc
  - Start up ACM with this command: `npx concurrently npm:start:backend npm:serve:plugins npm:watch:multicluster-sdk -n backend,frontend,watch -c green,blue,bgCyan` (do not use the documented commands)
  
  - Start up OCP console using script in this repo.
-    - This can be done in any directory
+    - No need to move this file
     - You may need to give execute permission (`chmod +x start-ocp-console.sh` )
 
  - Go to the following in a browser:
