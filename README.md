@@ -6,7 +6,7 @@ This repo contains the steps to run the console with ACM/MCE and Genie (POC) loc
 ## Prerequisites
 
 ### Repos
- - Lightspeed repo - https://github.com/openshift/lightspeed-service
+ - Lightspeed repo - https://github.com/lkrzyzanek/lightspeed-service (use ngui-mcp branch)
  - Genie POC repo - https://github.com/jhadvig/genie-plugin
  - ACM console repo - https://github.com/stolostron/console
 
